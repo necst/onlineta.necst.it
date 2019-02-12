@@ -1,0 +1,46 @@
+.logo img {
+	height:50px;
+}
+.uk-navbar {
+	background: #fff;
+	height: 60px;
+}
+.top-section {
+	border-bottom:solid 1px #333;
+	padding-top:15px;
+}
+.uk-navbar-toggle {
+	font-size: 28px;
+	font-weight: normal;
+}
+body {
+	background: #578bdb;
+}
+.uk-section
+{
+	background: #fff;
+}
+.uk-container {
+	background: #fff;
+}
+.footer {
+	background: #333;
+	color:#fff;
+	padding:6px 0;
+	border-top:solid 1px #578bdb;
+}
+h1 {
+	font-size: 32px;
+	margin-top:20px;
+}
+.main-container {
+	padding-bottom: 25px;
+}
+.logos {
+	text-align: center;
+}
+.logos div {
+	display: inline-block;
+	max-width: 150px;
+	margin:0px 60px 15px 60px;
+}
