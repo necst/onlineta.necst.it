@@ -33,6 +33,9 @@ h1 {
 	font-size: 32px;
 	margin-top:20px;
 }
+h2 a, h2 a:hover {
+	color: #444;
+}
 .main-container {
 	padding-bottom: 25px;
 }
