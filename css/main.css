@@ -47,3 +47,8 @@ h2 a, h2 a:hover {
 	max-width: 150px;
 	margin:0px 60px 15px 60px;
 }
+@media (max-width: 640px) {
+	h1 {
+		font-size: 28px;
+	}
+}
